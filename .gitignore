@@ -40,5 +40,10 @@
 # debug information files
 *.dwo
 
+# NSight Systems profiling output
+*.nsys-rep
+*.sqlite
+*.qdstrm
+
 # OS files
 .DS_Store
