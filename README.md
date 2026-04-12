@@ -2,6 +2,8 @@
 
 This repository is for **educational purposes only**, intended to learn and practice CUDA development.
 
+I am currently working through the **[Infatoshi CUDA Course](https://github.com/Infatoshi/cuda-course)** to build a stronger foundation in CUDA programming, GPU systems, and performance-oriented kernel development.
+
 ## Requirements to run the code
 
 To compile and use the code in this repository, you need an **NVIDIA GPU**.
